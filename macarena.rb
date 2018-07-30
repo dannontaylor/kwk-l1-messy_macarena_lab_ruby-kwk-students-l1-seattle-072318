@@ -1,7 +1,5 @@
 puts "How To Do The Macarena:"
 
-##Steps of the Macarena
-
 # Step 1:
 puts "Step 1: Right arm out in front of you, palm facing down."
 
