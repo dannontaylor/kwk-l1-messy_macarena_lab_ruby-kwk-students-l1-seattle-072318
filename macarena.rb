@@ -1,4 +1,4 @@
-puts "How To Do The Macarena:"
+puts "The Macarena tells you how to do the Macarena:"
 
 # Step 1:
 puts "Step 1: Right arm out in front of you, palm facing down."
